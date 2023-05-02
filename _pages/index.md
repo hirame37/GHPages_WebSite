@@ -1,5 +1,5 @@
 ---
-title: "タイトル名"
+title: "タイトル"
 author: default
 permalink: /
 ---
