@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "こんにちは"
 author: default
 permalink: /
 ---
